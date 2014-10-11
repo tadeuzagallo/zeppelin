@@ -1,60 +1,122 @@
 - 
   id: 0
-  name: "Vitaliy"
-  surname: "Zasadnyy"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: VitaliyZasadnyy.jpg
+  name: "Tadeu"
+  surname: "Zagallo"
+  #title: "Sponsors and Speakers Manager"
+  thumbnailUrl: TadeuZagallo.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+VitalikZasadnyy"}
-    - {name: "twitter", link: "https://twitter.com/zasadnyy"}
-    - {name: "github", link: "https://github.com/zasadnyy"}
-    - {name: "site", link: "http://zasadnyy.com/"}
+    - {name: "google-plus", link: "https://google.com/+TadeuZagallo"}
+    - {name: "twitter", link: "https://twitter.com/tadeuzagallo"}
+    - {name: "github", link: "https://github.com/tadeuzagallo"}
+    - {name: "site", link: "http://tadeuzagallo.com/"}
 - 
   id: 1
-  name: "Oleh"
-  surname: "Zasadnyy"
-  title: "Designer and Web Developer"
-  thumbnailUrl: OlehZasadnyy.jpg
+  name: "Tiago"
+  surname: "Gouvêa"
+  #title: "Sponsors and Speakers Manager"
+  thumbnailUrl: TiagoGouvea.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OlehZasadnyy"}
-    - {name: "github", link: "https://github.com/ozasadnyy"}
+    - {name: "google-plus", link: "https://google.com/+TiagoGouveaProgramador"}
+    - {name: "twitter", link: "https://twitter.com/TiagoGouvea"}
+    - {name: "github", link: "https://github.com/TiagoGouvea"}
+    - {name: "site", link: "http://www.tiagogouvea.com.br/"}
 - 
   id: 2
-  name: "Ostap"
-  surname: "Andrusiv"
-  title: "Sponsors and Speakers Manager"
-  thumbnailUrl: OstapAndrusiv.jpg
+  name: "Tiago"
+  surname: "Brandão"
+  #title: "Sponsors and Speakers Manager"
+  thumbnailUrl: TiagoBrandao.jpg
   team: true
   ribbon: 
     - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+OstapAndrusiv"}
-    - {name: "twitter", link: "https://twitter.com/p1f"}
-    - {name: "site", link: "http://andrusiv.com/"}
+    - {name: "google-plus", link: "https://google.com/+TiagoBrandão"}
+    - {name: "twitter", link: "https://twitter.com/tiagombrandao"}
+    - {name: "github", link: "https://github.com/tiagomourabrandao"}
+    - {name: "site", link: "http://about.me/tiagomourabrandao"}
+- 
+  id: 3
+  name: "Paulo"
+  surname: "Khouri"
+  #title: "Sponsors and Speakers Manager"
+  thumbnailUrl: PauloKhouri.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+PauloKhouri"}
+    - {name: "twitter", link: "https://twitter.com/paulokhouri"}
+    - {name: "github", link: "https://github.com/paulokhouri"}
+    - {name: "site", link: "http://paulokhouri.com/"}
 - 
   id: 4
-  name: "Dmytro"
-  surname: "Danylyk"
-  title: "Android Program Committee"
-  thumbnailUrl: DmytroDanylyk.jpg
-  subTeam: true
+  name: "Guilherme"
+  surname: "Lima Chaves"
+  #title: "Sponsors and Speakers Manager"
+  thumbnailUrl: GuilhermeLimaChaves.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/+DmytroDanylyk"}
-    - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    - {name: "github", link: "https://github.com/dmytrodanylyk"}
+    - {name: "google-plus", link: "https://plus.google.com/+GuilhermeChavesYOLO/"}
+    - {name: "twitter", link: "https://twitter.com/glchaves"}
+- 
+  id: 5
+  name: "Carlos"
+  surname: "Cavalcanti"
+  #title: "Sponsors and Speakers Manager"
+  thumbnailUrl: CarlosCavalcanti.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+CarlosCavalcanti"}
+    - {name: "twitter", link: "https://twitter.com/carloscaval"}
+    - {name: "github", link: "https://github.com/Carloscavalcanti"}
+    - {name: "site", link: "http://wwww.carloscavalcanti.com/"}
+- 
+  id: 6
+  name: "Victor Hugo"
+  surname: "Moreira"
+  #title: "Sponsors and Speakers Manager"
+  thumbnailUrl: VictorHugoMoreira.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+victorhugoesm"}
+    - {name: "twitter", link: "https://twitter.com/victorhugoesm"}
+    - {name: "github", link: "https://github.com/victorhugoesm"}
+    - {name: "site", link: "http://www.moblearn.com.br/"}
 - 
   id: 7
-  name: "Valentyn"
-  surname: "Shybanov"
-  title: "Web and Cloud Program Committee"
-  thumbnailUrl: ValentynShybanov.jpg
-  subTeam: true
+  name: "Ana Paula"
+  surname: "Gomes Ferreira"
+  #title: "Sponsors and Speakers Manager"
+  thumbnailUrl: AnaPaulaGomes.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
   social: 
-    - {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    - {name: "site", link: "http://olostan.name/"}
+    - {name: "google-plus", link: "https://google.com/+AnaPaulaGomess"}
+    - {name: "twitter", link: "https://twitter.com/AnaPaulaGomess"}
+- 
+  id: 8
+  name: "Rodrigo"
+  surname: "Antinarelli"
+  #title: "Sponsors and Speakers Manager"
+  thumbnailUrl: RodrigoAntinarelli.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+RodrigoAntinarelli"}
+    - {name: "twitter", link: "https://twitter.com/rodrigo_ea"}
+    - {name: "github", link: "https://github.com/rodrigoantinarelli"}
+    - {name: "site", link: "http://rodrigo.vc"}
