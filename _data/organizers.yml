@@ -1,7 +1,7 @@
 - 
   group: "Organizadores"
   elements: 
-    - {name: "GDG Rio de Janeiro", description: "GDG Rio de Janeiro", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-rio-de-janeiro.svg"}
-    - {name: "GDG Juiz de Fora", description: "GDG Juiz de Fora", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-juiz-de-fora.svg"}
-    - {name: "GDG Belo Horizonte", description: "GDG Belo Horizonte", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-belo-horizonte.svg"}
-    - {name: "GDG Uberaba", description: "GDG Uberaba", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-uberaba.svg"}
+    - {name: "GDG Rio de Janeiro", description: "GDG Rio de Janeiro", link: "https://plus.google.com/104464728601797437216", imageUrl: "gdg-rio-de-janeiro.svg"}
+    - {name: "GDG Juiz de Fora", description: "GDG Juiz de Fora", link: "https://plus.google.com/101567513255448590336", imageUrl: "gdg-juiz-de-fora.svg"}
+    - {name: "GDG Belo Horizonte", description: "GDG Belo Horizonte", link: "https://plus.google.com/+GdgbhOrg", imageUrl: "gdg-belo-horizonte.svg"}
+    - {name: "GDG Uberaba", description: "GDG Uberaba", link: "https://plus.google.com/105370317595680214151/about", imageUrl: "gdg-uberaba.svg"}
