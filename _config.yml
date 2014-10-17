@@ -6,7 +6,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Sudeste 2014"
-email: "devfest@gdg.org.ua"
+email: "sudeste@devfest.com.br"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/zeppelin"
 url: "http://tadeuzagallo.github.io"
@@ -24,8 +24,8 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, sudeste"
+twitterAccount: "@DevFestSe"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -155,7 +155,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/115701636639101848032", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=devfestsudeste", icon: "twitter"}
+ - {link: "https://twitter.com/devfestse", icon: "twitter"}
  - {link: "https://www.facebook.com/pages/DevFest-Sudeste/809735362381616", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
@@ -167,7 +167,7 @@ footerBlocks:
  -
   title: "Contato"
   links:
-   - {link: "mailto:tiago@tiagogouvea.com.br", text: "Envie um email"}
+   - {link: "mailto:sudeste@devfest.com.br", text: "Envie um email"}
  -
   title: "FAQ"
   links:
