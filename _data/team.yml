@@ -120,3 +120,31 @@
     - {name: "twitter", link: "https://twitter.com/rodrigo_ea"}
     - {name: "github", link: "https://github.com/rodrigoantinarelli"}
     - {name: "site", link: "http://rodrigo.vc"}
+- 
+  id: 9
+  name: "Luis"
+  surname: "Fernandez"
+  #title: "Sponsors and Speakers Manager"
+  thumbnailUrl: LuisFernandez.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+LuisEFernandezBR"}
+    - {name: "twitter", link: "https://twitter.com/luis82fernandez"}
+    - {name: "github", link: "https://github.com/luisfernandezbr"}
+    - {name: "site", link: "http://falandodeandroid.wordpress.com/"}
+- 
+  id: 10
+  name: "Emerson"
+  surname: "Ribeiro"
+  #title: "Sponsors and Speakers Manager"
+  thumbnailUrl: EmersonRibeiro.jpg
+  team: true
+  ribbon: 
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+EmersonRibeiroUx"}
+    - {name: "twitter", link: "https://twitter.com/emersonfr"}
+    - {name: "github", link: "https://github.com/emersonr"}
+    - {name: "site", link: "http://www.moblearn.com.br"}
