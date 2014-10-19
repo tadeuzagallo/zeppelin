@@ -7,9 +7,9 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 # Site Settings
 title: "GDG DevFest Sudeste 2014"
 email: "sudeste@devfest.com.br"
-description: "GDG DevFest is a set of events all around the world"
+description: "O maior evento para desenvolvedores Google da região sudeste!"
 baseurl: "/zeppelin"
-url: "http://tadeuzagallo.github.io"
+url: "http://sudeste.devfest.com.br"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -26,9 +26,9 @@ organizerLink: "http://lviv.gdg.org.ua/"
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, sudeste"
 twitterAccount: "@DevFestSe"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/logo_devfest_1.png"
+socialImageSrcTwitter: "/img/seo/logo_devfest_1.png"
+socialImageSrcFacebook: "/img/seo/logo_devfest_1.png"
 
 # Documents
 c4pUrl: "http://bit.ly/DevFestSudeste-CallForPapers"
