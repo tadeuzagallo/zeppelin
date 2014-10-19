@@ -70,7 +70,7 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "+", info: "participantes", detail: "de todo Brasil"}
- - {count: "12", specialCharacter: "+", info: "horas", detail: "de tecnologias Google"}
+ - {count: "10", specialCharacter: "+", info: "horas", detail: "de tecnologias Google"}
  - {count: "10", specialCharacter: "+", info: "palestrantes", detail: ""}
  - {count: "2", specialCharacter: "", info: "eventos paralelos", detail: ""}
 
