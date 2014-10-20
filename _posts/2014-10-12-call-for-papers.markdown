@@ -44,4 +44,4 @@ __Importante__ lembrar que não existe garantia que sua apresentação seja incl
 <br/>
 
 #### Duvidas? 
-Nos envie um email em [criar@devfest.com.br](mailto:criar@devfest.com.br)
+Nos envie um email em [sudeste@devfest.com.br](mailto:sudeste@devfest.com.br)

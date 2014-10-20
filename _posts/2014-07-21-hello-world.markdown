@@ -19,4 +19,4 @@ Algo mais que precisamos te contar agora:
 * **Onde**: Centro de Convenções Bolsa do Rio - no centro da cidade, fácil de chegar de metrô, ônibus, nave espacial 
 * **Palestrantes**: estamos recebendo [inscrições para palestrantes](http://bit.ly/DevFestSudeste-CallForPapers), mas já temos alguns mestes em negociação
 
-Mais detalhes sobre o evento, a programação e os palestrantes você acompanha nos próximos posts! Siga-nos também no [Google+](https://plus.google.com/b/115701636639101848032/115701636639101848032/posts), [Facebook](https://www.google.com/url?q=https%3A%2F%2Fwww.facebook.com%2Fpages%2FDevFest-Sudeste%2F809735362381616&sa=D&sntz=1&usg=AFQjCNFgj1w4sgypTdCzemZ7gktIuVxp-g) ou assine nossa newsletter.
+Mais detalhes sobre o evento, a programação e os palestrantes você acompanha nos próximos posts! Siga-nos também no [Google+](https://plus.google.com/b/115701636639101848032/115701636639101848032/posts), [Facebook](https://www.facebook.com/DevFestSudeste) ou assine nossa newsletter.

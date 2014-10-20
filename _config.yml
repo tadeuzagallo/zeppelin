@@ -6,10 +6,10 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
 # Site Settings
 title: "GDG DevFest Sudeste 2014"
-email: "devfest@gdg.org.ua"
-description: "GDG DevFest is a set of events all around the world"
+email: "sudeste@devfest.com.br"
+description: "O maior evento para desenvolvedores Google da região sudeste!"
 baseurl: "/zeppelin"
-url: "http://tadeuzagallo.github.io"
+url: "http://sudeste.devfest.com.br"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
 #googleAnalyticsSiteUrl: "gdg-x.github.io"
@@ -24,11 +24,11 @@ organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, sudeste"
+twitterAccount: "@DevFestSe"
+socialImageSrcGooglePlus: "/img/seo/logo_devfest_1.png"
+socialImageSrcTwitter: "/img/seo/logo_devfest_1.png"
+socialImageSrcFacebook: "/img/seo/logo_devfest_1.png"
 
 # Documents
 c4pUrl: "http://bit.ly/DevFestSudeste-CallForPapers"
@@ -70,7 +70,7 @@ aboutBlock:
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "200", specialCharacter: "+", info: "participantes", detail: "de todo Brasil"}
- - {count: "12", specialCharacter: "+", info: "horas", detail: "de tecnologias Google"}
+ - {count: "10", specialCharacter: "+", info: "horas", detail: "de tecnologias Google"}
  - {count: "10", specialCharacter: "+", info: "palestrantes", detail: ""}
  - {count: "2", specialCharacter: "", info: "eventos paralelos", detail: ""}
 
@@ -155,7 +155,7 @@ ticketsOffers:
 # Footer
 socialLinks:
  - {link: "https://plus.google.com/115701636639101848032", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=devfestsudeste", icon: "twitter"}
+ - {link: "https://twitter.com/devfestse", icon: "twitter"}
  - {link: "https://www.facebook.com/pages/DevFest-Sudeste/809735362381616", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
@@ -167,7 +167,7 @@ footerBlocks:
  -
   title: "Contato"
   links:
-   - {link: "mailto:tiago@tiagogouvea.com.br", text: "Envie um email"}
+   - {link: "mailto:sudeste@devfest.com.br", text: "Envie um email"}
  -
   title: "FAQ"
   links:
