@@ -8,7 +8,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: "GDG DevFest Sudeste 2014"
 email: "sudeste@devfest.com.br"
 description: "O maior evento para desenvolvedores Google da região sudeste!"
-baseurl: "/zeppelin"
+baseurl: ""
 url: "http://sudeste.devfest.com.br"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
@@ -32,8 +32,7 @@ socialImageSrcFacebook: "/img/seo/logo_devfest_1.png"
 
 # Documents
 c4pUrl: "http://bit.ly/DevFestSudeste-CallForPapers"
-c4sponsorsUrl: ""
-
+c4sponsorsUrl: "http://bit.ly/DevFestSudeste-Patrocinar"
 
 # Navigation
 navigationLinks:
@@ -47,7 +46,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "http://bit.ly/DevFestSudeste-CallForPapers", text: "Seja um palestrante"}
 rightNavigationButtons:
- - {link: "http://bit.ly/DevFestSudeste-CallForPapers", text: "Seja um palestrante"}
+ - {link: "/#tickets", text: "Se inscreva"}
 
 # Hero Block
 heroImage: "hero.jpg"
