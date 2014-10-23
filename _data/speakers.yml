@@ -11,6 +11,21 @@
     - {name: "google-plus", link: "https://plus.google.com/+AlêBorba/"}
     - {name: "twitter", link: "https://twitter.com/ale_borba" }
     - {name: "github", link: "https://github.com/aleborba" }
+    
+- 
+  id: 1
+  name: "Rodolfo"
+  surname: "Dias"
+  company: "Sagenev Software"
+  title: "Front End Engineer"
+  bio: "Front End Engineer na Sagenev Software, Rodolfo trabalha no desenvolvimento de aplicações de alto desempenho usando Javascript a 3 anos. Já desenvolveu projetos para clientes como Jornal do Commercio (Recife), Jornal Correio do Povo (Porto alegre) e Banco BMG. Ama Open Source, é um dos criadores do Translator Widget e maintainer do Simple Singleton Pattern. Também é um dos organizadores o AngularJS Meetup SP e BH."
+  thumbnailUrl: RodolfoDias.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RodolfoDias29/"}
+    - {name: "github", link: "https://github.com/rmdias" }
+    - {name: "facebook", link: "https://fb.com/rmdias29" }
+    
 #- 
   #id: 7
   #name: "Valentyn"
