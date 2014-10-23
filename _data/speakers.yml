@@ -11,23 +11,24 @@
     - {name: "google-plus", link: "https://plus.google.com/+AlêBorba/"}
     - {name: "twitter", link: "https://twitter.com/ale_borba" }
     - {name: "github", link: "https://github.com/aleborba" }
-    
-- 
-  id: 1
-  name: "Rodolfo"
-  surname: "Dias"
-  company: "Sagenev Software"
-  title: "Front End Engineer"
-  bio: "Front End Engineer na Sagenev Software, Rodolfo trabalha no desenvolvimento de aplicações de alto desempenho usando Javascript a 3 anos. Já desenvolveu projetos para clientes como Jornal do Commercio (Recife), Jornal Correio do Povo (Porto alegre) e Banco BMG. Ama Open Source, é um dos criadores do Translator Widget e maintainer do Simple Singleton Pattern. Também é um dos organizadores o AngularJS Meetup SP e BH."
-  thumbnailUrl: RodolfoDias.jpg
-  rockstar: false
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+RodolfoDias29/"}
-    - {name: "github", link: "https://github.com/rmdias" }
-    - {name: "facebook", link: "https://fb.com/rmdias29" }
-    
-- 
+
+-
   id: 2
+  name: "Ciro"
+  surname: "Nunes"
+  company: "Questrade"
+  title: "Senior Front-end Engineer"
+  bio: "Único Google Developer Expert em AngularJS da América Latina. É contribuidor do core do Angular e um mantenedor do Karma. Ele também revisa livros, organiza meetups e ministra cursos sobre o framework mais badalado do momento, além de palestrar em eventos pelo Brasil."
+  thumbnailUrl: CiroNunes.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+cironunesdev/"}
+    - {name: "github", link: "https://github.com/cironunes" }
+    - {name: "facebook", link: "https://fb.com/cironunesdev" }
+    - {name: "twitter", link: "https://twitter.com/cironunesdev" }
+
+-
+  id: 3
   name: "Beto"
   surname: "Muniz"
   company: "HE:labs"
@@ -42,19 +43,38 @@
     - {name: "twitter", link: "https://twitter.com/obetomuniz" }
     
 - 
-  id: 3
+  id: 4
   name: "Paulo"
   surname: "Pires"
   company: "HE:labs"
   title: "Developer"
   bio: "Escreveu sua primeira linha de código em 2005. Era ActionScript e era muito divertido. Já falou em dezenas de eventos por ai tentando compartilhar tudo que aprender. Hoje tem foco em Node.js, Go e C++, mas também gosta muito de Ember, AngularJS e fazer robozinhos com Arduino e Raspberry PI."
   thumbnailUrl: PauloPires.jpg
-  rockstar: true
+  rockstar: false
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+PauloPires22/"}
     - {name: "github", link: "https://github.com/paulohp" }
     - {name: "facebook", link: "https://fb.com/paulo.h.pires" }
     - {name: "twitter", link: "https://twitter.com/paulo_hp" }
+
+
+
+
+
+#-
+#  id: 1
+#  name: "Rodolfo"
+#  surname: "Dias"
+#  company: "Sagenev Software"
+#  title: "Front End Engineer"
+#  bio: "Front End Engineer na Sagenev Software, Rodolfo trabalha no desenvolvimento de aplicações de alto desempenho usando Javascript a 3 anos. Já desenvolveu projetos para clientes como Jornal do Commercio (Recife), Jornal Correio do Povo (Porto alegre) e Banco BMG. Ama Open Source, é um dos criadores do Translator Widget e maintainer do Simple Singleton Pattern. Também é um dos organizadores o AngularJS Meetup SP e BH."
+#  thumbnailUrl: RodolfoDias.jpg
+#  rockstar: false
+#  social:
+#    - {name: "google-plus", link: "https://plus.google.com/+RodolfoDias29/"}
+#    - {name: "github", link: "https://github.com/rmdias" }
+#    - {name: "facebook", link: "https://fb.com/rmdias29" }
+#
     
 #- 
   #id: 7
