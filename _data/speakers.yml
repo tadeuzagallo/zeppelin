@@ -11,6 +11,51 @@
     - {name: "google-plus", link: "https://plus.google.com/+AlêBorba/"}
     - {name: "twitter", link: "https://twitter.com/ale_borba" }
     - {name: "github", link: "https://github.com/aleborba" }
+    
+- 
+  id: 1
+  name: "Rodolfo"
+  surname: "Dias"
+  company: "Sagenev Software"
+  title: "Front End Engineer"
+  bio: "Front End Engineer na Sagenev Software, Rodolfo trabalha no desenvolvimento de aplicações de alto desempenho usando Javascript a 3 anos. Já desenvolveu projetos para clientes como Jornal do Commercio (Recife), Jornal Correio do Povo (Porto alegre) e Banco BMG. Ama Open Source, é um dos criadores do Translator Widget e maintainer do Simple Singleton Pattern. Também é um dos organizadores o AngularJS Meetup SP e BH."
+  thumbnailUrl: RodolfoDias.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+RodolfoDias29/"}
+    - {name: "github", link: "https://github.com/rmdias" }
+    - {name: "facebook", link: "https://fb.com/rmdias29" }
+    
+- 
+  id: 2
+  name: "Beto"
+  surname: "Muniz"
+  company: "HE:labs"
+  title: "Developer"
+  bio: "Beto Muniz é um Mineiro-Capixaba apaixonado por Front End, inspirado pelo estudo de novas tecnologias e pela comunidade, Beto está sempre antenado no que esta acontecendo e disposto a contribuir com a comunidade e prova disso é sua participação em Projetos Open-Source, Eventos e Organizações como CustomElements.io, LearnLayout.com, Google I/O Extended, TDC, Front In's, NodeJS Br, GoLangBr, MinasDev, Webcomponents.org entre outros."
+  thumbnailUrl: BetoMuniz.jpg
+  rockstar: false
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+betomuniz/"}
+    - {name: "github", link: "https://github.com/obetomuniz" }
+    - {name: "facebook", link: "https://fb.com/obetomuniz" }
+    - {name: "twitter", link: "https://twitter.com/obetomuniz" }
+    
+- 
+  id: 3
+  name: "Paulo"
+  surname: "Pires"
+  company: "HE:labs"
+  title: "Developer"
+  bio: "Escreveu sua primeira linha de código em 2005. Era ActionScript e era muito divertido. Já falou em dezenas de eventos por ai tentando compartilhar tudo que aprender. Hoje tem foco em Node.js, Go e C++, mas também gosta muito de Ember, AngularJS e fazer robozinhos com Arduino e Raspberry PI."
+  thumbnailUrl: PauloPires.jpg
+  rockstar: true
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+PauloPires22/"}
+    - {name: "github", link: "https://github.com/paulohp" }
+    - {name: "facebook", link: "https://fb.com/paulo.h.pires" }
+    - {name: "twitter", link: "https://twitter.com/paulo_hp" }
+    
 #- 
   #id: 7
   #name: "Valentyn"
