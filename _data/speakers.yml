@@ -1,5 +1,5 @@
-- 
-  id: 0
+-
+  id: 1
   name: "Alê"
   surname: "Borba"
   company: "Google São Paulo"
@@ -7,7 +7,7 @@
   bio: "Community Manager focado em comunidades técnicas e de desenvolvedores. Trabalhando pesado para que todas essas comunidades cresçam. Além disso, um apaixonado por acessibilidade em geral, principalmente web, que realmente acredita que a tecnologia veio para ajudar cada vez mais as pessoas."
   thumbnailUrl: AleBorba.jpg
   rockstar: true
-  social: 
+  social:
     - {name: "google-plus", link: "https://plus.google.com/+AlêBorba/"}
     - {name: "twitter", link: "https://twitter.com/ale_borba" }
     - {name: "github", link: "https://github.com/aleborba" }
@@ -56,6 +56,50 @@
     - {name: "github", link: "https://github.com/paulohp" }
     - {name: "facebook", link: "https://fb.com/paulo.h.pires" }
     - {name: "twitter", link: "https://twitter.com/paulo_hp" }
+
+
+-
+  id: 5
+  name: "Igor"
+  surname: "Torres"
+  company: "B2W Digital"
+  title: "Líder de Design Mobile"
+  bio: "Após passar pela agência Skidun, fundou uma empresa de desenvolvimento mobile, Appkraft que publicou 10 aplicativos que atingiu quase um milhão de downloads. Após esses resultados a Ideais, empresa responsável pela TI da B2W Digital, investiu na Appkraft, criando a Ideais Mobile para o desenvolvimento dos apps da B2W. A B2W comprou a Ideais e Ideais Mobile e hoje desempenha a função de coordenador de usabilidade mobile na B2W Digital."
+  thumbnailUrl: IgorTorres.jpg
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com//115774769124625061631"}
+    - {name: "facebook", link: "https://fb.com/IgorTorresAM" }
+    - {name: "twitter", link: "https://twitter.com/igortrrs" }
+
+
+-
+  id: 6 #ok schedule
+  name: "Gabriel"
+  surname: "Rodrigues"
+  company: "B2W Digital"
+  title: "UI Designer"
+  bio: "É designer de software, apaixonado por filosofia, psicologia e comunicação visual. Começou a carreira na Diebold, empresa de segurança lógica, desenhando a interface do primeiro Anti-Crimeware do mercado. Liderou estudantes no projeto de design de produto e interface do primeiro carro elétrico do Brasil, Projeto ET. Fundador do Sinal de Fumaça, sistema de grupos de e-mail, adquirido pela Biommerssoftware, Amsterdã, Holanda. Foi Lead UI Designer da Houston Association of Realtors, #5 dos sites de Real Estate dos EUA e #1 do Texas, desenhando site e apps para todas as plataformas mobile. Atualmente desenha os apps da B2W Digital."
+  thumbnailUrl: GabrielRodrigues.jpg
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/115533231612111137645"}
+    - {name: "facebook", link: "https://fb.com/gabrielprodrigues" }
+    - {name: "twitter", link: "https://twitter.com/gabrielemcrise" }
+
+-
+  id: 7
+  name: "Beto"
+  surname: "Muniz"
+#  company: ""
+#  title: ""
+#  bio: ""
+#  thumbnailUrl: GabrielRodrigues.jpg
+#  rockstar: false
+#  social:
+#    - {name: "google-plus", link: "https://plus.google.com/115533231612111137645"}
+#    - {name: "facebook", link: "https://fb.com/gabrielprodrigues" }
+#    - {name: "twitter", link: "https://twitter.com/gabrielemcrise" }
 
 
 

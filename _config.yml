@@ -50,7 +50,7 @@ rightNavigationButtons:
  - {link: "http://bit.ly/DevFestSudeste-CallForPapers", text: "Seja um palestrante"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "RioHero.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "8 de Novembro"
 typeoutTextValues: '"", "Sudeste", "Rio de Janeiro", "Juiz de Fora", "Belo Horizonte", "Uberaba"'
