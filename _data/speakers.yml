@@ -35,7 +35,7 @@
   title: "Developer"
   bio: "Beto Muniz é um Mineiro-Capixaba apaixonado por Front End, inspirado pelo estudo de novas tecnologias e pela comunidade, Beto está sempre antenado no que esta acontecendo e disposto a contribuir com a comunidade e prova disso é sua participação em Projetos Open-Source, Eventos e Organizações como CustomElements.io, LearnLayout.com, Google I/O Extended, TDC, Front In's, NodeJS Br, GoLangBr, MinasDev, Webcomponents.org entre outros."
   thumbnailUrl: BetoMuniz.jpg
-  rockstar: false
+  rockstar: true
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+betomuniz/"}
     - {name: "github", link: "https://github.com/obetomuniz" }
@@ -66,7 +66,7 @@
   title: "Líder de Design Mobile"
   bio: "Após passar pela agência Skidun, fundou uma empresa de desenvolvimento mobile, Appkraft que publicou 10 aplicativos que atingiu quase um milhão de downloads. Após esses resultados a Ideais, empresa responsável pela TI da B2W Digital, investiu na Appkraft, criando a Ideais Mobile para o desenvolvimento dos apps da B2W. A B2W comprou a Ideais e Ideais Mobile e hoje desempenha a função de coordenador de usabilidade mobile na B2W Digital."
   thumbnailUrl: IgorTorres.jpg
-  rockstar: false
+  rockstar: true
   social:
     - {name: "google-plus", link: "https://plus.google.com//115774769124625061631"}
     - {name: "facebook", link: "https://fb.com/IgorTorresAM" }
@@ -86,24 +86,6 @@
     - {name: "google-plus", link: "https://plus.google.com/115533231612111137645"}
     - {name: "facebook", link: "https://fb.com/gabrielprodrigues" }
     - {name: "twitter", link: "https://twitter.com/gabrielemcrise" }
-
--
-  id: 7
-  name: "Beto"
-  surname: "Muniz"
-#  company: ""
-#  title: ""
-#  bio: ""
-#  thumbnailUrl: GabrielRodrigues.jpg
-#  rockstar: false
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/115533231612111137645"}
-#    - {name: "facebook", link: "https://fb.com/gabrielprodrigues" }
-#    - {name: "twitter", link: "https://twitter.com/gabrielemcrise" }
-
-
-
-
 
 #-
 #  id: 1
