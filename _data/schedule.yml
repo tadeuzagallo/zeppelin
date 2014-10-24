@@ -6,37 +6,82 @@
     #- {title: "Hackathon", color: "#03a9f4"}
   timeslots:
     - {
+      startTime: "8:30",
+      endTime: "9:00",
+      sessionIds: [9] #credencialmento
+    }
+    - {
     	startTime: "8:30",
       endTime: "9:00",
-    	sessionIds: [001]
+    	sessionIds: [1] #coffee
     }
     - {
         startTime: "09:00",
-        endTime: "09:20",
-        sessionIds: [002],
+        endTime: "09:15",
+        sessionIds: [2], #gdg
     }
     - {
         startTime: "9:20",
+        endTime: "10:15",
+        sessionIds: [10], #material design - igor
+    }
+    - {
+        startTime: "10:20",
+        endTime: "11:05",
+        sessionIds: [11], #GCloud - Ale
+    }
+    - {
+        startTime: "11:10",
+        endTime: "11:25",
+        sessionIds: [12], #app review - igor
+    }
+    - {
+        startTime: "11:30",
         endTime: "12:00",
-        sessionIds: [003],
+        sessionIds: [13], #tipografia - gabriel
     }
     - {
         startTime: "12:00",
         endTime: "13:00",
-        sessionIds: [004],
+        sessionIds: [004], #almoço
     }
     - {
         startTime: "13:00",
-        endTime: "16:00",
-        sessionIds: [005],
+        endTime: "13:25",
+        sessionIds: [12], #app review - igor
+    }
+    - {
+        startTime: "13:30",
+        endTime: "14:15",
+        sessionIds: [8], #golang - paulo
+    }
+    - {
+        startTime: "14:20",
+        endTime: "15:05",
+        sessionIds: [0], #Mboile seguro = augusto
+    }
+    - {
+        startTime: "15:10",
+        endTime: "15:55",
+        sessionIds: [14], #Polymer = Beto Muniz
     }
     - {
         startTime: "16:00",
         endTime: "16:30",
-        sessionIds: [006],
+        sessionIds: [006], #coffee
     }
     - {
-        startTime: "16:30",
+        startTime: "16:40",
+        endTime: "17:25",
+        sessionIds: [3], #Angular - Ciro Nunes
+    }
+    - {
+        startTime: "17:30",
+        endTime: "17:55",
+        sessionIds: [0],
+    }
+    - {
+        startTime: "18:00",
         endTime: "18:20",
-        sessionIds: [007],
+        sessionIds: [0], # encerramento?
     }
