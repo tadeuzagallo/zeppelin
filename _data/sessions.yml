@@ -19,7 +19,7 @@
   description: "Componentização é a palavra-chave quando falamos de como criar aplicações extremamente modulares, testáveis e fáceis de manter. Não é atoa que os Web Components são aguardados ansiosamente pela comunidade Front-end. Nesta palestra vamos aprender a criar, reutilizar e compartilhar componentes feitos com o AngularJS."
   place: "Hall"
   speakers: [2] #Ciro
-  service: true
+  subtype: presentation
 -
   id: 4 #ok
   title: "Almoço"
@@ -30,15 +30,11 @@
   title: "Desmistificando o Polymer" #beto muniz
   description: "Nesta palestra será apresentado o que é o Polymer Project, seus principais conceitos, como ele chega para acelerarmos a implementação de componentes ricos através de padrões estabelecidos e, integrações e diferenciais com frameworks e bibliotecas existentes, como AngularJS, jQuery entre outros. Sem dúvidas será uma palestra bem motivadora para quem deseja começar de uma vez por todas a trabalhar com componentização web da forma certa ou mesmo conhecer todo o poder do conceito."
   place: "Hall"
-  service: true
+  speakers: [3] #Beto Muniz
+  subtype: presentation
 -
   id: 6
   title: "Coffee Break"
-  place: "Hall"
-  service: true
--
-  id: 7
-  title: "Lightining Talks"
   place: "Hall"
   service: true
 -
@@ -47,7 +43,7 @@
   description: "Qual é a dessa linguagem que todo mundo vem falando? O que ela tem que a minha linguagem preferida não tem? Como será seu futuro e por que devo aprender Go?"
   place: "Hall"
   speakers: [4] #Paulo Pires
-  service: true
+  subtype: presentation
 -
   id: 9 #ok schedule
   title: "Credenciamento"
@@ -59,35 +55,28 @@
   title: "Material Design"
   place: "Hall"
   speakers: [5] #igor
-  service: true
+  subtype: presentation
 
 -
   id: 11 #ok schedule
   title: "Google Developers Platform"
   place: "Hall"
   speakers: [1] #ale
-  service: true
+  subtype: presentation
 
 -
   id: 12 #ok schedule
   title: "App Review"
   place: "Hall"
   speakers: [5] #igor
-  service: true
+  subtype: presentation
 
 -
   id: 13 #ok schedule
   title: "Tipografia"
   place: "Hall"
   speakers: [6] #Gabriel Rodrigues
-  service: true
-
--
-  id: 14 #ok schedule
-  title: "Polymer"
-  place: "Hall"
-  speakers: [7] #Gabriel Rodrigues
-  service: true
+  subtype: presentation
 
 -
   id: 20

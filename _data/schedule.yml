@@ -7,21 +7,21 @@
   timeslots:
     - {
       startTime: "8:30",
-      endTime: "9:00",
+      endTime: "9:10",
       sessionIds: [9] #credencialmento
     }
     - {
-    	startTime: "8:30",
-      endTime: "9:00",
-    	sessionIds: [1] #coffee
+      startTime: "8:40",
+      endTime: "9:10",
+      sessionIds: [1] #Café da manha
     }
     - {
-        startTime: "09:00",
-        endTime: "09:15",
+        startTime: "09:10",
+        endTime: "09:25",
         sessionIds: [2], #gdg
     }
     - {
-        startTime: "9:20",
+        startTime: "9:30",
         endTime: "10:15",
         sessionIds: [10], #material design - igor
     }
@@ -63,7 +63,7 @@
     - {
         startTime: "15:10",
         endTime: "15:55",
-        sessionIds: [14], #Polymer = Beto Muniz
+        sessionIds: [5], #Polymer = Beto Muniz
     }
     - {
         startTime: "16:00",
@@ -77,11 +77,6 @@
     }
     - {
         startTime: "17:30",
-        endTime: "17:55",
-        sessionIds: [0],
-    }
-    - {
-        startTime: "18:00",
         endTime: "18:20",
         sessionIds: [0], # encerramento?
     }
