@@ -49,7 +49,7 @@ rightNavigationButtons:
  - {link: "/#tickets", text: "Se inscreva"}
 
 # Hero Block
-heroImage: "RioHero.jpg"
+heroImage: "RioHero.png"
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "8 de Novembro"
 typeoutTextValues: '"", "Sudeste", "Rio de Janeiro", "Juiz de Fora", "Belo Horizonte", "Uberaba"'
