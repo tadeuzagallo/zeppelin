@@ -103,7 +103,7 @@ nav {
             font-weight: $regular;
             transition: $base-transition;
             text-transform: uppercase;
-            color: $nav-color;
+            color: $nav-scroll-color;
             @media (max-width: 767px) {
                 font-size: 16px;
                 display: block;
@@ -115,18 +115,16 @@ nav {
             }
             &.current, &:hover {
                 text-decoration: none;
-                color: $nav-color-hover;
+                color: $nav-scroll-color-hover;
                 @media (max-width: 767px) {
                     color: $main-color;
                 }
             }
             .top-header.after-scroll & {
-                color: $nav-scroll-color;
                 @media (max-width: 767px) {
                     top: 20px;
                 }
                 &.current, &:hover {
-                    color: $nav-scroll-color-hover;
                     @media (max-width: 767px) {
                         color: $main-color;
                     }
