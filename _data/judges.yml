@@ -36,3 +36,17 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/115855003232002412403"}
     - {name: "facebook", link: "https://www.facebook.com/lucas.mendes.902266"}
+-
+  id: 3
+  name: "Átila"
+  surname: "Braga"
+  #company: "Phormar Assessoria"
+  #title: "CIO"
+  thumbnailUrl: AtilaBraga.jpg
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+ÁtilaBraga"}
+    - {name: "twitter", link: "https://twitter.com/atilabraga"}
+    - {name: "facebook", link: "https://facebook.com/atila.braga.5"}
+    - {name: "github", link: "https://github.com/atilabraga"}
