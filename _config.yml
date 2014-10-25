@@ -42,8 +42,8 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/team/", text: "Equipe"}
- - {permalink: "/logistics/", text: "Logística"}
  - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/logistics/", text: "Como Chegar"}
 bottomNavigationLinks:
  - {link: "http://bit.ly/DevFestSudeste-CallForPapers", text: "Seja um palestrante"}
 rightNavigationButtons:
@@ -201,16 +201,20 @@ hackathonTitle: "Hackathon"
 enableHackathon: true
 
 # Hackathon About Block
-aboutHackathonTitle: "Mais informações em breve"
+aboutHackathonTitle: "Destaque-se na comunidade nacional de desenvolvedores"
 hackathonRows:
- #- {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
+ - {title: "#HackathonDevFest", image: "nerd-code.png", details: "Não basta estar lá, é preciso também programar. Por isso criamos o hackathon do DevFest Sudeste; para você montar sua equipe, buscar uma ideia e partir para a implementação! Tudo isso em poucas horas e com uma premiação que realmente vale a pena!"}
+ - {title: "Android Wear", image: "hackathon-0.png", details: "Como expandir os limites com as novas possibilidades dos \"vestíveis\" em seus projetos? Nos surpreenda apresentando uma aplicação nova, de uma forma diferente ou apenas fazendo oque é óbvio mas ainda não foi feito."}
+ - {title: "Google Glass", image: "hackathon-0.png", details: "Desenvolver para Google Glass não é para os mais fracos. Que tal utilizar a Glass Development Kit (GDK) para implementar com o Glass? A interface precisa ser adequada ao dispositivo bem como a interação deve ser cuidadosamente pensada. Ganhe pontos extras nesta competição desenvolvendo com a mais nova tecnologia!"}
+ - {title: "Polymer", image: "hackathon-0.png", details: "Crie uma aplicação robusta e funcional em poucas horas utilizando Polymer, ou então crie seu próprio set de componentes. As ferramentas do Google para desenvolvedores são incríveis e utiliza-las em seus projetos nos enchem os olhos!"}
+ - {title: "Chromecast", image: "prize-3.png", details: "Que tal utilizar o Chromecast como display para sua aplicação? Desde jogos até aplicações educacionais podem ser feitas utilizando-se do dispositivo. Destaque sua equipe implementando coisas inimagináveis com HTML5 e JavaScript! "}
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
-judgesTitle: "Judges"
+judgesTitle: "Juízes"
 
 # Hackathon Prizes Block
-prizesTitle: "Prizes"
+prizesTitle: "Premiação"
 prizes:
  - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
  - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
