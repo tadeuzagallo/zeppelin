@@ -12,7 +12,6 @@
   id: 2 #ok
   title: "Apresentação do GDG"
   place: "Hall"
-  service: true
 -
   id: 3
   title: "Criando Componentes AngularJS" #Ciro Nunes
