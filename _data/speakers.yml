@@ -88,22 +88,6 @@
     - {name: "twitter", link: "https://twitter.com/gabrielemcrise" }
 
 -
-  id: 7
-  name: "Beto"
-  surname: "Muniz"
-  company: "HE:labs"
-  title: "Developer"
-  bio: "Mineiro-Capixaba apaixonado por Front End, inspirado pelo estudo de novas tecnologias e pela comunidade, Beto está sempre antenado no que esta acontecendo e disposto a contribuir com a comunidade e prova disso é sua participação em Projetos Open-Source, Eventos e Organizações como CustomElements.io, LearnLayout.com, Google I/O Extended, TDC, Front In's, NodeJS Br, GoLangBr, MinasDev, Webcomponents.org entre outros."
-  thumbnailUrl: BetoMuniz.jpg
-  rockstar: false
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/+betomuniz/"}
-    - {name: "facebook", link: "https://fb.com/obetomuniz" }
-    - {name: "twitter", link: "https://twitter.com/obetomuniz" }
-    - {name: "github", link: "https://github.com/obetomuniz" }
-
-
--
   id: 8 #ok schedule
   name: "Augusto"
   surname: "Marinho"
