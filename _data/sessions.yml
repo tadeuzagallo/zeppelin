@@ -5,7 +5,7 @@
   service: true
 -
   id: 1 #ok
-  title: "Café da Manhã"
+  title: "Credenciamento / Café da Manhã"
   place: "Hall"
   service: true
 -
@@ -76,6 +76,18 @@
   place: "Hall"
   speakers: [6] #Gabriel Rodrigues
   subtype: presentation
+
+-
+  id: 15
+  title: "Javascript Data Binding"
+  place: "Hall"
+  speakers: [9] #Tadeu
+
+-
+  id: 16
+  title: ""
+  place: "Hall"
+  speakers: [8] #Augusto
 
 -
   id: 20

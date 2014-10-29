@@ -7,13 +7,8 @@
   timeslots:
     - {
       startTime: "8:30",
-      endTime: "9:10",
-      sessionIds: [9] #credencialmento
-    }
-    - {
-      startTime: "8:40",
-      endTime: "9:10",
-      sessionIds: [1] #Café da manha
+      endTime: "9:15",
+    	sessionIds: [1] # credenciamento / coffee
     }
     - {
         startTime: "09:10",
@@ -58,7 +53,7 @@
     - {
         startTime: "14:20",
         endTime: "15:05",
-        sessionIds: [0], #Mboile seguro = augusto
+        sessionIds: [15], #JavaScript - Tadeu
     }
     - {
         startTime: "15:10",
@@ -77,6 +72,11 @@
     }
     - {
         startTime: "17:30",
+        endTime: "17:55",
+        sessionIds: [0], #Mboile seguro = augusto
+    }
+    - {
+        startTime: "18:00",
         endTime: "18:20",
         sessionIds: [0], # encerramento?
     }

@@ -87,32 +87,39 @@
     - {name: "facebook", link: "https://fb.com/gabrielprodrigues" }
     - {name: "twitter", link: "https://twitter.com/gabrielemcrise" }
 
-#-
-#  id: 1
-#  name: "Rodolfo"
-#  surname: "Dias"
-#  company: "Sagenev Software"
-#  title: "Front End Engineer"
-#  bio: "Front End Engineer na Sagenev Software, Rodolfo trabalha no desenvolvimento de aplicações de alto desempenho usando Javascript a 3 anos. Já desenvolveu projetos para clientes como Jornal do Commercio (Recife), Jornal Correio do Povo (Porto alegre) e Banco BMG. Ama Open Source, é um dos criadores do Translator Widget e maintainer do Simple Singleton Pattern. Também é um dos organizadores o AngularJS Meetup SP e BH."
-#  thumbnailUrl: RodolfoDias.jpg
-#  rockstar: false
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/+RodolfoDias29/"}
-#    - {name: "github", link: "https://github.com/rmdias" }
-#    - {name: "facebook", link: "https://fb.com/rmdias29" }
-#
-    
-#- 
-  #id: 7
-  #name: "Valentyn"
-  #surname: "Shybanov"
-  #company: "Twinfield, GDG Kyiv"
-  #title: "Software engineer/country manager"
-  #bio: "Valentyn focuses on Polymer and Web Components. In previous roles he’s helped craft design systems for massive enterprise companies, user interfaces for console titles, and even built the occasional enchanted princess game. These days his mission is to fight for a better web and to help developers build great experiences."
-  #thumbnailUrl: ValentynShybanov.jpg
-  #rockstar: true
-  #ribbon:
-    #- {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/110301321530950732281/"}
-  #social: 
-    #- {name: "google-plus", link: "https://google.com/+ValentynShybanov"}
-    #- {name: "site", link: "http://olostan.name/"}
+-
+  id: 7
+  name: "Beto"
+  surname: "Muniz"
+  company: "HE:labs"
+  title: "Developer"
+  bio: "Mineiro-Capixaba apaixonado por Front End, inspirado pelo estudo de novas tecnologias e pela comunidade, Beto está sempre antenado no que esta acontecendo e disposto a contribuir com a comunidade e prova disso é sua participação em Projetos Open-Source, Eventos e Organizações como CustomElements.io, LearnLayout.com, Google I/O Extended, TDC, Front In's, NodeJS Br, GoLangBr, MinasDev, Webcomponents.org entre outros."
+  thumbnailUrl: BetoMuniz.jpg
+  rockstar: false
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+betomuniz/"}
+    - {name: "facebook", link: "https://fb.com/obetomuniz" }
+    - {name: "twitter", link: "https://twitter.com/obetomuniz" }
+    - {name: "github", link: "https://github.com/obetomuniz" }
+
+
+-
+  id: 8 #ok schedule
+  name: "Augusto"
+  surname: "Marinho"
+  company: "M4U S/A"
+  title: "Analista de Sistemas Mobile"
+  bio: "Analista de sistemas e pós-graduado em engenharia de computação, trabalha atualmente na M4U S/A com desenvolvimento mobile de produtos voltados para pagamento móvel. Possui vasta experiência com desenvolvimento Java EE em soluções de integrações back end e interfaces com serviços de telecomunicações."
+  thumbnailUrl: AugustoMarinho.jpg
+  rockstar: false
+
+-
+  id: 9
+  name: "Tadeu" #ok schedule
+  surname: "Zagallo"
+  thumbnailUrl: TadeuZagallo.jpg
+  social:
+    - {name: "google-plus", link: "https://google.com/+TadeuZagallo"}
+    - {name: "twitter", link: "https://twitter.com/tadeuzagallo"}
+    - {name: "github", link: "https://github.com/tadeuzagallo"}
+    - {name: "site", link: "http://tadeuzagallo.com/"}

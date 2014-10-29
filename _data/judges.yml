@@ -1,19 +1,5 @@
-- 
+-
   id: 0
-  name: "Tadeu"
-  surname: "Zagalo"
-  #company: "Lemberg Solutions Limited"
-  #title: "Android Developer"
-  thumbnailUrl: TadeuZagallo.jpg
-  ribbon:
-    - {abbr: "GDG", title: "Google Developer Group"}
-  social: 
-    - {name: "google-plus", link: "https://google.com/+TadeuZagallo"}
-    - {name: "twitter", link: "https://twitter.com/tadeuzagallo"}
-    - {name: "github", link: "https://github.com/tadeuzagallo"}
-    - {name: "site", link: "http://tadeuzagallo.com/"}
-- 
-  id: 1
   name: "Tiago"
   surname: "Gouvêa"
   #company: "Phormar Assessoria"
@@ -26,6 +12,22 @@
     - {name: "twitter", link: "https://twitter.com/TiagoGouvea"}
     - {name: "github", link: "https://github.com/TiagoGouvea"}
     - {name: "site", link: "http://www.tiagogouvea.com.br/"}
+
+-
+  id: 1
+  name: "Tadeu"
+  surname: "Zagalo"
+  #company: "Lemberg Solutions Limited"
+  #title: "Android Developer"
+  thumbnailUrl: TadeuZagallo.jpg
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group"}
+  social: 
+    - {name: "google-plus", link: "https://google.com/+TadeuZagallo"}
+    - {name: "twitter", link: "https://twitter.com/tadeuzagallo"}
+    - {name: "github", link: "https://github.com/tadeuzagallo"}
+    - {name: "site", link: "http://tadeuzagallo.com/"}
+
 - 
   id: 2
   name: "Lucas"
