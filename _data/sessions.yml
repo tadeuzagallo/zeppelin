@@ -87,7 +87,8 @@
 
 -
   id: 16
-  title: ""
+  title: "Segurança no Android"
+  description: "Está preocupado com a segurança de suas aplicações mobile? Nesta palestra o Augusto Marinho, te ensina a desenvolver com segurança."
   place: "Hall"
   speakers: [8] #Augusto
 

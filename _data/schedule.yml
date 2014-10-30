@@ -23,7 +23,8 @@
     - {
         startTime: "10:20",
         endTime: "11:05",
-        sessionIds: [11], #GCloud - Ale
+        sessionIds: [3], #Angular - Ciro Nunes
+
     }
     - {
         startTime: "11:10",
@@ -53,7 +54,7 @@
     - {
         startTime: "14:20",
         endTime: "15:05",
-        sessionIds: [15], #JavaScript - Tadeu
+        sessionIds: [16], #JavaScript - Tadeu
     }
     - {
         startTime: "15:10",
@@ -68,12 +69,12 @@
     - {
         startTime: "16:40",
         endTime: "17:25",
-        sessionIds: [3], #Angular - Ciro Nunes
+        sessionIds: [11], #GCloud - Ale
     }
     - {
         startTime: "17:30",
         endTime: "17:55",
-        sessionIds: [0], #Mboile seguro = augusto
+        sessionIds: [15], #Mboile seguro = augusto
     }
     - {
         startTime: "18:00",

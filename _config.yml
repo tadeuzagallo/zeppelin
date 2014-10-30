@@ -44,10 +44,10 @@ navigationLinks:
  - {permalink: "/team/", text: "Equipe"}
  - {permalink: "/hackathon/", text: "Hackathon"}
  - {permalink: "/logistics/", text: "Como Chegar"}
-bottomNavigationLinks:
- - {link: "http://bit.ly/DevFestSudeste-CallForPapers", text: "Seja um palestrante"}
-rightNavigationButtons:
- - {link: "http://bit.ly/DevFestSudeste-CallForPapers", text: "Seja um palestrante"}
+#bottomNavigationLinks:
+# - {link: "http://bit.ly/DevFestSudeste-CallForPapers", text: "Seja um palestrante"}
+#rightNavigationButtons:
+# - {link: "http://bit.ly/DevFestSudeste-CallForPapers", text: "Seja um palestrante"}
 
 # Hero Block
 heroImage: "RioHero.jpg"
@@ -56,8 +56,8 @@ eventDate: "8 de Novembro"
 typeoutTextValues: '"", "Sudeste", "Rio de Janeiro", "Juiz de Fora", "Belo Horizonte", "Uberaba"'
 typeoutFallback: "Sudeste"
 heroButtons:
- - {link: "http://bit.ly/DevFestSudeste-CallForPapers", text: "Seja um palestrante"}
  - {permalink: "/#tickets", text: "Se inscreva"}
+ #- {link: "http://bit.ly/DevFestSudeste-CallForPapers", text: "Seja um palestrante"}
 
 # About Block
 aboutTitle: "Sobre o GDG DevFest"
