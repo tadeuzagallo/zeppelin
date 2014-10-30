@@ -43,10 +43,10 @@ navigationLinks:
  - {permalink: "/team/", text: "Equipe"}
  - {permalink: "/hackathon/", text: "Hackathon"}
  - {permalink: "/logistics/", text: "Como Chegar"}
-bottomNavigationLinks:
- - {link: "http://bit.ly/DevFestSudeste-CallForPapers", text: "Seja um palestrante"}
-rightNavigationButtons:
- - {link: "/#tickets", text: "Se inscreva"}
+#bottomNavigationLinks:
+# - {link: "http://bit.ly/DevFestSudeste-CallForPapers", text: "Seja um palestrante"}
+#rightNavigationButtons:
+# - {link: "http://bit.ly/DevFestSudeste-CallForPapers", text: "Seja um palestrante"}
 
 # Hero Block
 heroImage: "RioHero.png"
@@ -55,8 +55,8 @@ eventDate: "8 de Novembro"
 typeoutTextValues: '"", "Sudeste", "Rio de Janeiro", "Juiz de Fora", "Belo Horizonte", "Uberaba"'
 typeoutFallback: "Sudeste"
 heroButtons:
- - {link: "http://bit.ly/DevFestSudeste-CallForPapers", text: "Seja um palestrante"}
  - {permalink: "/#tickets", text: "Se inscreva"}
+ #- {link: "http://bit.ly/DevFestSudeste-CallForPapers", text: "Seja um palestrante"}
 
 # About Block
 aboutTitle: "Sobre o GDG DevFest"
@@ -202,7 +202,7 @@ enableHackathon: true
 # Hackathon About Block
 aboutHackathonTitle: "Destaque-se na comunidade nacional de desenvolvedores"
 hackathonRows:
- - {title: "#HackathonDevFest", image: "nerd-code.png", details: "Não basta estar lá, para muitos, é preciso também programar. Por isso criamos o hackathon do DevFest Sudeste; para você montar sua equipe, buscar uma ideia e partir para a implementação! Tudo isso em poucas horas e com uma premiação que realmente vale a pena! A única regra é desenvolver utilizando o Android."}
+ - {title: "#HackathonDevFest", image: "nerd-code.png", details: "Não basta estar lá, para muitos, é preciso também programar. Por isso criamos o hackathon do DevFest Sudeste; para você montar sua equipe, buscar uma ideia e partir para a implementação! Tudo isso em poucas horas e com uma premiação que realmente vale a pena! A única regra é desenvolver utilizando o Android e ter no máximo quatro membros na equipe."}
  - {title: "Android Wear", image: "hackathon-0.png", details: "Como expandir os limites com as novas possibilidades dos \"vestíveis\" em seus projetos? Nos surpreenda apresentando uma aplicação nova, de uma forma diferente ou apenas fazendo oque é óbvio mas ainda não foi feito."}
  - {title: "Google Glass", image: "hackathon-1.png", details: "Desenvolver para Google Glass não é para os fracos. Que tal utilizar o Glass Development Kit (GDK) para implementar com o Glass? A interface precisa ser adequada ao dispositivo bem como a interação deve ser cuidadosamente pensada. Ganhe pontos extras nesta competição desenvolvendo com a mais nova tecnologia!"}
  - {title: "Polymer", image: "Polymer.png", details: "Crie uma aplicação robusta e funcional em poucas horas utilizando Polymer, ou então crie seu próprio set de componentes. As ferramentas do Google para desenvolvedores são incríveis e utiliza-las em seus projetos nos enchem os olhos!"}
