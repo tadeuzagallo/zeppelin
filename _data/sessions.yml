@@ -5,7 +5,7 @@
   service: true
 -
   id: 1 #ok
-  title: "Credenciamento / Café da Manhã"
+  title: "Café da Manhã"
   place: "Hall"
   service: true
 -
@@ -18,7 +18,10 @@
   description: "Componentização é a palavra-chave quando falamos de como criar aplicações extremamente modulares, testáveis e fáceis de manter. Não é atoa que os Web Components são aguardados ansiosamente pela comunidade Front-end. Nesta palestra vamos aprender a criar, reutilizar e compartilhar componentes feitos com o AngularJS."
   place: "Hall"
   speakers: [2] #Ciro
+<<<<<<< HEAD
   subtype: presentation
+=======
+>>>>>>> Hackathon updates
 -
   id: 4 #ok
   title: "Almoço"
@@ -29,20 +32,33 @@
   title: "Desmistificando o Polymer" #beto muniz
   description: "Nesta palestra será apresentado o que é o Polymer Project, seus principais conceitos, como ele chega para acelerarmos a implementação de componentes ricos através de padrões estabelecidos e, integrações e diferenciais com frameworks e bibliotecas existentes, como AngularJS, jQuery entre outros. Sem dúvidas será uma palestra bem motivadora para quem deseja começar de uma vez por todas a trabalhar com componentização web da forma certa ou mesmo conhecer todo o poder do conceito."
   place: "Hall"
+<<<<<<< HEAD
   speakers: [3] #Beto Muniz
   subtype: presentation
+=======
+>>>>>>> Hackathon updates
 -
   id: 6
   title: "Coffee Break"
   place: "Hall"
   service: true
 -
+<<<<<<< HEAD
+=======
+  id: 7
+  title: "Lightining Talks"
+  place: "Hall"
+-
+>>>>>>> Hackathon updates
   id: 8 #ok schedule
   title: "Porque Go será sua próxima linguagem" # paulo pires
   description: "Qual é a dessa linguagem que todo mundo vem falando? O que ela tem que a minha linguagem preferida não tem? Como será seu futuro e por que devo aprender Go?"
   place: "Hall"
   speakers: [4] #Paulo Pires
+<<<<<<< HEAD
   subtype: presentation
+=======
+>>>>>>> Hackathon updates
 -
   id: 9 #ok schedule
   title: "Credenciamento"
@@ -54,41 +70,46 @@
   title: "Material Design"
   place: "Hall"
   speakers: [5] #igor
+<<<<<<< HEAD
   subtype: presentation
+=======
+>>>>>>> Hackathon updates
 
 -
   id: 11 #ok schedule
   title: "Google Developers Platform"
   place: "Hall"
   speakers: [1] #ale
+<<<<<<< HEAD
   subtype: presentation
+=======
+>>>>>>> Hackathon updates
 
 -
   id: 12 #ok schedule
   title: "App Review"
   place: "Hall"
   speakers: [5] #igor
+<<<<<<< HEAD
   subtype: presentation
+=======
+>>>>>>> Hackathon updates
 
 -
   id: 13 #ok schedule
   title: "Tipografia"
   place: "Hall"
   speakers: [6] #Gabriel Rodrigues
+<<<<<<< HEAD
   subtype: presentation
+=======
 
 -
-  id: 15
-  title: "Javascript Data Binding"
+  id: 14 #ok schedule
+  title: "Polymer"
   place: "Hall"
-  speakers: [9] #Tadeu
-
--
-  id: 16
-  title: "Segurança no Android"
-  description: "Está preocupado com a segurança de suas aplicações mobile? Nesta palestra o Augusto Marinho, te ensina a desenvolver com segurança."
-  place: "Hall"
-  speakers: [8] #Augusto
+  speakers: [7] #Gabriel Rodrigues
+>>>>>>> Hackathon updates
 
 -
   id: 20

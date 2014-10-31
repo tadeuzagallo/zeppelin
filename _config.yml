@@ -8,7 +8,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: "GDG DevFest Sudeste 2014"
 email: "sudeste@devfest.com.br"
 description: "Os melhores desenvolvedores Google presentes no maior evento de tecnologia da região Sudeste! Venha, aprenda, mostre seu valor e esteja no topo da comunidade!"
-baseurl: ""
+baseurl: "/zeppelin"
 url: "http://sudeste.devfest.com.br"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
@@ -32,7 +32,8 @@ socialImageSrcFacebook: "/img/seo/meta-fb.png"
 
 # Documents
 c4pUrl: "http://bit.ly/DevFestSudeste-CallForPapers"
-c4sponsorsUrl: "http://bit.ly/DevFestSudeste-Patrocinar"
+c4sponsorsUrl: ""
+
 
 # Navigation
 navigationLinks:
@@ -49,7 +50,7 @@ navigationLinks:
 # - {link: "http://bit.ly/DevFestSudeste-CallForPapers", text: "Seja um palestrante"}
 
 # Hero Block
-heroImage: "RioHero.png"
+heroImage: "RioHero.jpg"
 heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "8 de Novembro"
 typeoutTextValues: '"", "Sudeste", "Rio de Janeiro", "Juiz de Fora", "Belo Horizonte", "Uberaba"'
@@ -78,7 +79,7 @@ latestNewsTitle: "Últimas notícias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 1
 rockstarSpeakersTitle: "Palestrantes Rockstar"
 rockstarSpeakersButtonText: "Ver todos os palestrantes"
 
@@ -164,13 +165,20 @@ footerBlocks:
    - {link: "http://codigo-google.blogspot.com.br/", text: "Código Google"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
+   title: "Organização"
+   links:
+    - {link: "https://plus.google.com/104464728601797437216", text: "GDG Rio de Janeiro"}
+    - {link: "http://emjuizdefora.com/gdgjf", text: "GDG Juiz de Fora"}
+    - {link: "https://plus.google.com/+GdgbhOrg", text: "GDG Belo Horizonte"}
+    - {link: "https://plus.google.com/105370317595680214151", text: "GDG Uberada"}
+ -
   title: "Contato"
   links:
    - {link: "mailto:sudeste@devfest.com.br", text: "Envie um email"}
- -
-  title: "FAQ"
-  links:
-   - {permalink: "/cod/", text: "Código de conduta"}
+# -
+#  title: "FAQ"
+#  links:
+#   - {permalink: "/cod/", text: "Código de conduta"}
 
 # Blog
 blogTitle: "Últimas notícias"
@@ -182,7 +190,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "Sobre nós"
-aboutUs: "Ferramentas e produtos do Google se tornaram sinônimo de produtividade e desempenho no mundo online. O número de inovações tecnológicas e indústrias de TI em que o Google está criando novas ferramentas e produtos é enorme. É difícil conhecer todos eles. É por isso que as pessoas começaram a se reunir em pequenos grupos locais e partilharam a sua experiência com tais produtos. Mais tarde, os seguintes grupos foram chamados Grupos de Desenvolvedores do Google. GDGs podem assumir muitas formas - de apenas algumas pessoas que se juntam para assistir alguns vídeos, para grandes encontros com demonstrações, palestras técnicas, hackathons e conferências."
+aboutUs: "Ferramentas e produtos do Google se tornaram sinônimo de produtividade e desempenho no mundo online. O número de inovações tecnológicas e indústrias de TI em que o Google está criando novas ferramentas e produtos é enorme. É difícil conhecer todos eles. É por isso que as pessoas começaram a se reunir em pequenos grupos locais e partilharam a sua experiência com tais produtos. Mais tarde, os seguintes grupos foram chamados Grupos de Desenvolvedores do Google. Assim, os GDGs do Rio de Janeiro, Juiz de Fora, Belo Horizonte e Uberaba se uniram para realizar o DevFest Sudeste, o maior evento do Google para desenvolvedores na região! Conheça os organizadores responsáveis.
 
 # Logistics Find Way Block
 findWayTitle: "Como chegar?"
@@ -232,6 +240,6 @@ hackathonAddressCountry: "Brasil"
 hackathonStartTime: "2014-11-08T09:00"
 hackathonDoorTime: "08:30"
 hackathonEndTime: "2014-10-25T18:30"
-hackathonPlaceCoordinates: "-22.9070828, -43.181914800000015"
-hackathonMapCenterCoordinates: "-22.9070828, -43.181914800000015"
-hackathonMapMobileCenterCoordinates: "-22.9070828, -43.181914800000015"
+hackathonPlaceCoordinates: "-22.902454, -43.174125"
+hackathonMapCenterCoordinates: "-22.902454, -43.174125"
+hackathonMapMobileCenterCoordinates: "-22.902454, -43.174125"
