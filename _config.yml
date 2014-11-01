@@ -8,7 +8,7 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 title: "GDG DevFest Sudeste 2014"
 email: "sudeste@devfest.com.br"
 description: "Os melhores desenvolvedores Google presentes no maior evento de tecnologia da região Sudeste! Venha, aprenda, mostre seu valor e esteja no topo da comunidade!"
-baseurl: "/zeppelin"
+baseurl: ""
 url: "http://sudeste.devfest.com.br"
 permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
@@ -79,7 +79,7 @@ latestNewsTitle: "Últimas notícias"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 1
+rockstarSpeakersCount: 4
 rockstarSpeakersTitle: "Palestrantes Rockstar"
 rockstarSpeakersButtonText: "Ver todos os palestrantes"
 
