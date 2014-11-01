@@ -3,7 +3,6 @@ markdown: kramdown
 permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME']
 
-
 # Site Settings
 title: "GDG DevFest Sudeste 2014"
 email: "sudeste@devfest.com.br"
@@ -32,13 +31,13 @@ socialImageSrcFacebook: "/img/seo/meta-fb.png"
 
 # Documents
 c4pUrl: "http://bit.ly/DevFestSudeste-CallForPapers"
-c4sponsorsUrl: ""
+c4sponsorsUrl: "http://bit.ly/DevFestSudeste-Patrocinar"
 
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- #- {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/team/", text: "Equipe"}
@@ -175,6 +174,7 @@ footerBlocks:
   title: "Contato"
   links:
    - {link: "mailto:sudeste@devfest.com.br", text: "Envie um email"}
+
 # -
 #  title: "FAQ"
 #  links:
@@ -190,7 +190,7 @@ showSessions: true
 
 # Team Block
 teamBlockTitle: "Sobre nós"
-aboutUs: "Ferramentas e produtos do Google se tornaram sinônimo de produtividade e desempenho no mundo online. O número de inovações tecnológicas e indústrias de TI em que o Google está criando novas ferramentas e produtos é enorme. É difícil conhecer todos eles. É por isso que as pessoas começaram a se reunir em pequenos grupos locais e partilharam a sua experiência com tais produtos. Mais tarde, os seguintes grupos foram chamados Grupos de Desenvolvedores do Google. Assim, os GDGs do Rio de Janeiro, Juiz de Fora, Belo Horizonte e Uberaba se uniram para realizar o DevFest Sudeste, o maior evento do Google para desenvolvedores na região! Conheça os organizadores responsáveis.
+aboutUs: "Ferramentas e produtos do Google se tornaram sinônimo de produtividade e desempenho no mundo online. O número de inovações tecnológicas e indústrias de TI em que o Google está criando novas ferramentas e produtos é enorme. É difícil conhecer todos eles. É por isso que as pessoas começaram a se reunir em pequenos grupos locais e partilharam a sua experiência com tais produtos. Mais tarde, os seguintes grupos foram chamados Grupos de Desenvolvedores do Google. Assim, os GDGs do Rio de Janeiro, Juiz de Fora, Belo Horizonte e Uberaba se uniram para realizar o DevFest Sudeste, o maior evento do Google para desenvolvedores na região! Conheça os organizadores responsáveis."
 
 # Logistics Find Way Block
 findWayTitle: "Como chegar?"
