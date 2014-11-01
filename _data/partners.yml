@@ -2,9 +2,13 @@
   group: "Patrocinador Platina"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com.ua/intl/en/about/", imageUrl: "google.png"}
+
+-
   group: "Patrocinador Gold"
   elements:
     - {name: "Instituto Infnet", description: "Instituto Infnet", link: "http://www.infnet.edu.br/infnet/", imageUrl: "infnet.png"}
+
+-
   group: "Patrocinador Silver"
   elements:
     - {name: "Casa do Código", description: "Casa do Código", link: "http://www.casadocodigo.com.br/", imageUrl: "casa_codigo.png"}
