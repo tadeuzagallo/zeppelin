@@ -7,8 +7,8 @@
   timeslots:
     - {
       startTime: "8:30",
-      endTime: "9:10",
-    	sessionIds: [1] # credenciamento / coffee
+      endTime: "9:00",
+    	sessionIds: [0, 1] # credenciamento / coffee
     }
     - {
         startTime: "09:10",
@@ -28,7 +28,7 @@
     }
     - {
         startTime: "11:10",
-        endTime: "11:35",
+        endTime: "11:40",
         sessionIds: [13], #tipografia - gabriel
 
     }
@@ -50,17 +50,17 @@
     - {
         startTime: "14:05",
         endTime: "14:50",
-        sessionIds: [16], #JavaScript - Tadeu
+        sessionIds: [14], #JavaScript - Tadeu
     }
     - {
         startTime: "14:55",
         endTime: "15:40",
-        sessionIds: [14], #Polymer = Beto Muniz
+        sessionIds: [5], #Polymer = Beto Muniz
     }
     - {
         startTime: "15:45",
         endTime: "16:15",
-        sessionIds: [006], #coffee
+        sessionIds: [6], #coffee
     }
     - {
         startTime: "16:20",

@@ -1,6 +1,6 @@
 -
   id: 0
-  title: "...em definição..."
+  title: "Credenciamento"
   place: "Hall"
   service: true
 -
@@ -10,8 +10,9 @@
   service: true
 -
   id: 2 #ok
-  title: "Apresentação do GDG"
+  title: "Abertura"
   place: "Hall"
+  service: true
 -
   id: 3
   title: "Criando Componentes AngularJS" #Ciro Nunes
@@ -80,6 +81,29 @@
   place: "Hall"
   speakers: [6] #Gabriel Rodrigues
   subtype: presentation
+
+-
+  id: 14
+  title: "Javascript Data Binding"
+  place: "Hall"
+  speakers: [9] #Tadeu
+
+-
+  id: 15
+  title: "Desenvolvimento Mobile Seguro"
+  place: "Hall"
+  speakers: [8]
+
+-
+  id: 16
+  title: "Workshop: Desenhando Apps no Sketch"
+  place: "Hall"
+  speakers: [5, 6]
+-
+  id: 17
+  title: "Encerramento"
+  place: "Hall"
+  service: true
 
 -
   id: 20
