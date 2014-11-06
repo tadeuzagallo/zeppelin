@@ -126,7 +126,7 @@ ticketsOffers:
   validThrough: "2014-11-07T23:59"
  -
   name: "Palestras + Hackathon"
-  price: "35"
+  price: "55"
   priceCurrency: "R$"
   ticketsNumber: "100"
   #ribbon: "-20%"
@@ -139,7 +139,7 @@ ticketsOffers:
   #disabled: true
  -
   name: "Hackathon"
-  price: "25"
+  price: "40"
   priceCurrency: "R$"
   ticketsNumber: "100"
   buyButtonLink: "http://even.tc/devfest-sudeste-2014"
@@ -240,6 +240,6 @@ hackathonAddressCountry: "Brasil"
 hackathonStartTime: "2014-11-08T09:00"
 hackathonDoorTime: "08:30"
 hackathonEndTime: "2014-10-25T18:30"
-hackathonPlaceCoordinates: "-22.902454, -43.174125"
-hackathonMapCenterCoordinates: "-22.902454, -43.174125"
-hackathonMapMobileCenterCoordinates: "-22.902454, -43.174125"
+hackathonPlaceCoordinates: "-22.9070828, -43.181914800000015"
+hackathonMapCenterCoordinates: "-22.9070828, -43.181914800000015"
+hackathonMapMobileCenterCoordinates: "-22.9070828, -43.181914800000015"
